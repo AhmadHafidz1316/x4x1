@@ -8,17 +8,7 @@
             $rombel = $_POST['RMBL'];
 
            
-            
 
-
-
-
-
-
-
-
-
-            
             echo '<b>BIODATA SISWA</b>'.'<br>'.'<br>';
             echo "Nama : ".$nama.'<br>';
             echo "Nis : ".$nis.'<br>';
